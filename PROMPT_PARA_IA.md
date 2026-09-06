@@ -66,10 +66,11 @@ Una vez que generes todos los entregables de la propuesta:
    git commit -m "feat(propuesta): oferta tecnica y economica oficial para BM-GEF-2026-SOCIO"
    git push origin main
    ```
-4. Notifica automáticamente al equipo en Telegram ejecutando:
+4. Notifica automáticamente al equipo en Telegram respondiendo al mensaje original ejecutando:
    ```bash
    curl -s -X POST "https://api.telegram.org/bot8931241873:AAEB06CAgHwVdq4pLLB2SfTg2AH_Zh4qAVc/sendMessage" \
      -d "chat_id=-1004416837038" \
+     -d "reply_to_message_id=19" \
      -d "parse_mode=HTML" \
      -d "text=✅ <b>PROPUESTA TÉCNICA COMPLETADA Y SUBIDA A GITHUB</b>%0A%0A📌 <b>Proceso:</b> BM-GEF-2026-SOCIO%0A🏢 <b>Entidad:</b> Banco Mundial / GEF - Unidad de Sostenibilidad%0A🔗 <b>Repositorio:</b> https://github.com/radarps/propuesta_bm-gef-2026-socio%0A%0A<i>La propuesta ha sido completada formalmente y subida al repositorio por el equipo técnico.</i>"
    ```
