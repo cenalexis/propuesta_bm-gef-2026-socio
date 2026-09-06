@@ -1,0 +1,34 @@
+{
+  "convocatoria": {
+    "codigo_proceso": "BM-GEF-2026-SOCIO",
+    "entidad": "Banco Mundial / GEF - Unidad de Sostenibilidad",
+    "objeto": "Consultoría Técnica Remota (3 meses): Análisis Socioeconómico y Formulación de Cadenas de Valor Sostenibles para Comunidades Rurales",
+    "presupuesto_usd": 30000.0,
+    "plazo_dias": 90,
+    "fecha_preguntas": "2026-09-12 18:00",
+    "fecha_ofertas": "2026-09-28 17:00",
+    "url_pliego": "https://projects.worldbank.org/en/projects-operations/procurement",
+    "fuente": "BANCO_MUNDIAL"
+  },
+  "evaluacion": {
+    "score": 97,
+    "veredicto": "IR_SOLOS",
+    "veredicto_label": "🟢 IR SOLOS (100% CAPACIDAD PROPIA P&S)",
+    "puntos_fuertes": [
+      "Trayectoria consolidada en análisis econométrico, modelos de desarrollo socioeconómico y sostenibilidad.",
+      "Metodología estructurada para formulación de cadenas de valor y capacidad de entrega remota."
+    ],
+    "puntos_debiles": [
+      "Ninguno crítico identificado para la fase de postulación técnica."
+    ]
+  },
+  "empresa": {
+    "nombre": "Planning & Solution S.A.",
+    "ruc": "1793138841001",
+    "experiencia_usd": 360000.0,
+    "equipo": [
+      "Arq. José Vicente",
+      "Ing. Kevin Jiménez"
+    ]
+  }
+}
